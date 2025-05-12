@@ -39,7 +39,7 @@
 ## Accounts
 - Administration
   - **Email:** admin@kaneoh.com
-  - **Password:** admin
+  - **Password:** \<admin\>
 - User
   - **Email:** user@kaneoh.com
-  - **Password:** user
+  - **Password:** \<user\>
