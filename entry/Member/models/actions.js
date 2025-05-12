@@ -1,0 +1,16 @@
+export default {
+  loginRequest: 'member.LOGIN_REQUEST',
+  loginSuccess: 'member.LOGIN_SUCCESS',
+  loginFailed: 'member.LOGIN_FAILED',
+  logoutRequest: 'member.LOGOUT_REQUEST',
+  logoutSuccess: 'member.LOGOUT_SUCCESS',
+  logoutFailed: 'member.LOGOUT_FAILED',
+  signupRequest: 'member.SIGNUP_REQUEST',
+  signupSuccess: 'member.SIGNUP_SUCCESS',
+  signupFailed: 'member.SIGNUP_FAILED',
+  profileRequest: 'member.PROFILE_REQUEST',
+  profileSuccess: 'member.PROFILE_SUCCESS',
+  profileFailed: 'member.PROFILE_FAILED',
+  go2SignUp: 'member.GO2SINGUP_PAGE',
+  go2SignIn: 'member.GO2SINGIN_PAGE',
+};
